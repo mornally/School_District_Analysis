@@ -1,2 +1,3 @@
 # School_District_Analysis
 Analysis of school district data using Jupyter notebooks.
+This is an analysis of public and charter school district data. The data contains information about school size, type, budgets, and test scores. First, I cleaned the data by removing duplicate entries and standardizing the data types. Then, I used descriptive statistics about the data frame to understand the range of test scores across schools. By using slicing functions I was able to get a more granular view of the data by school, school type, grade, and so on. Using the methods and tools I have used here, one could pursue more specific questions about how test results are influenced differently by charter schools and public schools.
